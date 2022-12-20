@@ -371,7 +371,7 @@ hr {
       .tile.tile-512 .tile-inner {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
-    background: #fff url('../img/barnum.jpg');
+    background: #fff url('../img/Barnum.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(136, 243, 114, 0.48), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 35px; }
@@ -387,7 +387,7 @@ hr {
       .tile.tile-2048 .tile-inner {
         font-size: 15px; } }
   .tile.tile-super .tile-inner {
-    background: #fff url('../img/buddyg.jpg');
+    background: #fff url('../img/wolvie.jpg');
     background-size: cover;
     font-size: 30px; }
     @media screen and (max-width: 520px) {
