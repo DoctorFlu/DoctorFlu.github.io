@@ -327,27 +327,27 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #fff url('../img/lieberman.jpg');
+    background: #fff url('../img/sierakowski.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: #fff url('../img/levine.jpg');
+    background: #fff url('../img/yang.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    background: #fff url('../img/reiner.jpg');
+    background: #fff url('../img/chien.jpg');
     background-size: cover; }
   .tile.tile-16 .tile-inner {
-    background: #fff url('../img/park.jpg');
+    background: #fff url('../img/thompson.jpg');
     background-size: cover; }
   .tile.tile-32 .tile-inner {
-    background: #fff url('../img/laffite.jpg');
+    background: #fff url('../img/medawar.jpg');
     background-size: cover; }
   .tile.tile-64 .tile-inner {
-    background: #fff url('../img/buck.jpg');
+    background: #fff url('../img/yaron.jpg');
     background-size: cover; }
   .tile.tile-128 .tile-inner {
-    background: #fff url('../img/helston.jpg');
+    background: #fff url('../img/campbell.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 114, 114, 0.24), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
@@ -355,7 +355,7 @@ hr {
       .tile.tile-128 .tile-inner {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
-    background: #fff url('../img/goedde.jpg');
+    background: #fff url('../img/klein.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(114, 243, 114, 0.32), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 45px; }
@@ -363,7 +363,7 @@ hr {
       .tile.tile-256 .tile-inner {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
-    background: #fff url('../img/howard.jpg');
+    background: #fff url('../img/cuseo.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 114, 114, 0.4), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
     font-size: 45px; }
@@ -371,7 +371,7 @@ hr {
       .tile.tile-512 .tile-inner {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
-    background: #fff url('../img/patterson.jpg');
+    background: #fff url('../img/engelberg.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(136, 243, 114, 0.48), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 35px; }
@@ -379,7 +379,7 @@ hr {
       .tile.tile-1024 .tile-inner {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
-    background: #fff url('../img/rickonthecommons.jpg');
+    background: #fff url('../img/rickyc.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 114, 114, 0.56), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 35px; }
